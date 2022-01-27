@@ -189,9 +189,6 @@ maisa="741697042"
 rodrigaooficial="15898989"
 nft="45967686843"
 madonna="181306552"
-leonardodicaprio="1506607755"
-ladygaga="184692323"
-taylorswift="11830955"
 instagram="25025320"
 
 
