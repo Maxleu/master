@@ -175,7 +175,7 @@ joaocastanheira="7071098911"
 nikolassasso="19032249"
 mentedesucessoo="7008520241"
 neymarjr="26669533"
-therock="232192182"
+brunovanenck="192332108"
 raphaelfalcao="340169886"
 conradoadolpho="12178016"
 tiagotessmann="255431768"
@@ -188,15 +188,15 @@ dsilvaoficial="12891992"
 maisa="741697042"
 rodrigaooficial="15898989"
 nft="45967686843"
-madonna="181306552"
-instagram="25025320"
+rodrigobreaad="1009113175"
+trafegobrasil="36426855507"
 klebim="263164192"
 gtrafa35="29761553"
 soueunavida="2004257776"
 
 
 if [[ ! -e celeb_id ]]; then
-printf " %s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n" $thiagofinch $rochaerico $alexvargaspro $joaocastanheira $nikolassasso $mentedesucessoo $neymarjr $raphael.falcao $conradoadolpho $tiagotessmann $tatawerneck $havanoficial $instagram $vinidotosolto $bfcarnes $luan_haires $dsilvaoficial $maisa $rodrigaooficial $nft $madonna $therock $klebim $gtrafa35 $soueunavida > celeb_id
+printf " %s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n" $thiagofinch $rochaerico $alexvargaspro $joaocastanheira $nikolassasso $mentedesucessoo $neymarjr $raphael.falcao $conradoadolpho $tiagotessmann $tatawerneck $havanoficial $trafegobrasil $vinidotosolto $bfcarnes $luan_haires $dsilvaoficial $maisa $rodrigaooficial $nft $rodrigobreaad $brunovanenck $klebim $gtrafa35 $soueunavida > celeb_id
 fi
 
 while [[ true ]]; do
